@@ -23,7 +23,7 @@ print('\n\nLISTA ORDENADA DESCENDIENTE...')
 Estudiantes.reverse()
 print(Estudiantes)
 
-#Eliminar elemento en una lista REMOVE
+#Eliminar elemento en una lista REMOVE--pop
 print('\nEliminar elemnto de la lista'.center(50,'*'))
 Estudiantes.remove('Profe')
 print('Eliminando el elemento PROFE')
